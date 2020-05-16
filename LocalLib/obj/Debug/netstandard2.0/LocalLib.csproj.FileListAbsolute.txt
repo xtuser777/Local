@@ -1,0 +1,9 @@
+C:\Users\Lucas\Projects\Local\LocalLib\bin\Debug\netstandard2.0\LocalLib.deps.json
+C:\Users\Lucas\Projects\Local\LocalLib\bin\Debug\netstandard2.0\LocalLib.dll
+C:\Users\Lucas\Projects\Local\LocalLib\bin\Debug\netstandard2.0\LocalLib.pdb
+C:\Users\Lucas\Projects\Local\LocalLib\obj\Debug\netstandard2.0\LocalLib.csprojAssemblyReference.cache
+C:\Users\Lucas\Projects\Local\LocalLib\obj\Debug\netstandard2.0\LocalLib.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Projects\Local\LocalLib\obj\Debug\netstandard2.0\LocalLib.AssemblyInfoInputs.cache
+C:\Users\Lucas\Projects\Local\LocalLib\obj\Debug\netstandard2.0\LocalLib.AssemblyInfo.cs
+C:\Users\Lucas\Projects\Local\LocalLib\obj\Debug\netstandard2.0\LocalLib.dll
+C:\Users\Lucas\Projects\Local\LocalLib\obj\Debug\netstandard2.0\LocalLib.pdb

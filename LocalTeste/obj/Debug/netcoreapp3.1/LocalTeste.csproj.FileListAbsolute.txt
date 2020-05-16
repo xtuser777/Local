@@ -1,0 +1,13 @@
+C:\Users\Lucas\Projects\Local\LocalTeste\bin\Debug\netcoreapp3.1\LocalTeste.exe
+C:\Users\Lucas\Projects\Local\LocalTeste\bin\Debug\netcoreapp3.1\LocalTeste.deps.json
+C:\Users\Lucas\Projects\Local\LocalTeste\bin\Debug\netcoreapp3.1\LocalTeste.runtimeconfig.json
+C:\Users\Lucas\Projects\Local\LocalTeste\bin\Debug\netcoreapp3.1\LocalTeste.runtimeconfig.dev.json
+C:\Users\Lucas\Projects\Local\LocalTeste\bin\Debug\netcoreapp3.1\LocalTeste.dll
+C:\Users\Lucas\Projects\Local\LocalTeste\bin\Debug\netcoreapp3.1\LocalTeste.pdb
+C:\Users\Lucas\Projects\Local\LocalTeste\obj\Debug\netcoreapp3.1\LocalTeste.csprojAssemblyReference.cache
+C:\Users\Lucas\Projects\Local\LocalTeste\obj\Debug\netcoreapp3.1\LocalTeste.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Projects\Local\LocalTeste\obj\Debug\netcoreapp3.1\LocalTeste.AssemblyInfoInputs.cache
+C:\Users\Lucas\Projects\Local\LocalTeste\obj\Debug\netcoreapp3.1\LocalTeste.AssemblyInfo.cs
+C:\Users\Lucas\Projects\Local\LocalTeste\obj\Debug\netcoreapp3.1\LocalTeste.dll
+C:\Users\Lucas\Projects\Local\LocalTeste\obj\Debug\netcoreapp3.1\LocalTeste.pdb
+C:\Users\Lucas\Projects\Local\LocalTeste\obj\Debug\netcoreapp3.1\LocalTeste.genruntimeconfig.cache
